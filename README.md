@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy JIRS (SISOSA1977)
+# 👋 ¡Hola! Soy  JIRS (SISOSA1977)
 
 Soy un estudiante y apasionado de la tecnología, actualmente aprendiendo desarrollo con **Python**, **OpenGL (JOGL)** y proyectos prácticos que integran código con visualización.
 
